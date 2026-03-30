@@ -1,0 +1,14 @@
+REQUIREMENTS dashboard.py
+
+IMPERATIF : LANCER LA COMMANDE SUIVANTE POUR LANCER LE DASHBOARD
+
+python -m streamlit run SRC/dashboard.py
+
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+plotly
+geopandas
+shapely

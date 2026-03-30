@@ -1,0 +1,8 @@
+REQUIREMENT ANALYSE.py
+
+pandas>=2.0.0
+numpy
+matplotlib
+seaborn
+openpyxl
+scipy

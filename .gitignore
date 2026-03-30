@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Données personnelles
+EQUIPE.txt
+RAPPORT.pdf
+RAPPORT_v2.pdf
+Présentation.pptx

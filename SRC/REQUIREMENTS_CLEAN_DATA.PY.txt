@@ -1,0 +1,12 @@
+REQUIREMENTS CLEAN_DATA.PY
+
+pandas>=2.0.0
+numpy
+geopy
+requests
+beautifulsoup4
+matplotlib
+seaborn
+streamlit
+plotly
+openpyxl
